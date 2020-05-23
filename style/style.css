@@ -407,9 +407,10 @@ a:hover {
     color: var(--graytext);
     line-height: 11px;
 }
-.main__bottom-link{
+.main__bottom-button{
     padding: 22px 25px;
     margin-bottom: 100px;
+    border: none;
 }
 /* MAIN end */
 /* FOOTER start */
