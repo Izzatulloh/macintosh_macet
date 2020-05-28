@@ -897,6 +897,9 @@ a:hover {
     .contact__text {
         width: 95%;
     }
+    .header__work-title{
+       font-size: 32px;
+    }
 }
 
 /* MEDIA end */
